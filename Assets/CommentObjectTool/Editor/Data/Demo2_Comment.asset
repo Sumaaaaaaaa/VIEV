@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98416033ce71cb042a5b73d2caf8e553, type: 3}
+  m_Name: Demo2_Comment
+  m_EditorClassIdentifier: 
+  enable: 1
+  commentedValues:
+    keys:
+    - Sphere_Demo2
+    - Cube_Demo2
+    - Cube (1)_Demo2
+    values:
+    - //<color=yellow>Yellow</color> <color=blue>sphere</color>
+    - //<size=24><color=red>RED CUBE</color></size>
+    - //<size=20><color=lime>GREEN CUBE</color></size>
